@@ -1,0 +1,2 @@
+# kompilacja-kernela
+# kompilacja-kernela
