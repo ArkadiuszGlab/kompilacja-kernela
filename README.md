@@ -1,2 +1,1 @@
 # kompilacja-kernela
-# kompilacja-kernela
